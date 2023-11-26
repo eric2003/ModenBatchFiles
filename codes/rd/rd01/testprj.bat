@@ -1,0 +1,3 @@
+echo
+
+rd /s test
